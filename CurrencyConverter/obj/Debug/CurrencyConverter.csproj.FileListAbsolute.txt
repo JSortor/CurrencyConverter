@@ -1,0 +1,7 @@
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\justi\Documents\Grandcircus projects\Currency exchanger\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
